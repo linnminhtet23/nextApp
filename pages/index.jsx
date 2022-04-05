@@ -8,7 +8,7 @@ function HomePage() {
 
   return (
     <div>
-            <EventSearch/>
+            {/* <EventSearch/> */}
 
       <EventList items={featureEvents}/>
     </div>
